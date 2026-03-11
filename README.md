@@ -12,3 +12,8 @@ It is a collection of raw facts, figures or symbols that are not processed yet, 
 ## What is a  Schema?
 A schema is what explains the design, structure or relationship and the format of data.
 `For example the age of a person, or their name`
+
+## Explain the difference between:
+- A list is where multiple data is stored.
+ `while`
+- A dictionary is a combination of data that consist of an object.
