@@ -11,4 +11,4 @@ It is a collection of raw facts, figures or symbols that are not processed yet, 
 
 ## What is a  Schema?
 A schema is what explains the design, structure or relationship and the format of data.
-'For example the age of a person, or their name'
+`For example the age of a person, or their name`
