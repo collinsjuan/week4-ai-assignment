@@ -6,9 +6,9 @@ Name: John Kamau Ngigi
 It is a collection of raw facts, figures or symbols that are not processed yet, such as numbers, texts, images or sounds. 
 
 ## Explain the difference between:
-. Structured Data is data that has fixed schema like text, numbers
-. Unstructured Data is data that has no fixed schema example audio, videos
+- Structured Data is data that has fixed schema like text, numbers
+- Unstructured Data is data that has no fixed schema example audio, videos
 
 ## What is a  Schema?
 A schema is what explains the design, structure or relationship and the format of data.
-for example the age of a person, or their name
+~For example the age of a person, or their name
